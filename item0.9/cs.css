@@ -1,0 +1,61 @@
+*{
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+.father{
+	width: 1000px;
+	margin: auto;
+	margin-top: 10px;
+}
+.BiaoTi{
+	font-size: 26px;
+	border-left: 5px solid red;
+	padding-left: 5px;
+}
+a{
+	float: right;
+	font-size: 15px;
+	padding-bottom: 10px;
+}
+.one{
+	margin-top: 10px;
+	border-top: solid 3px gray;
+	height: 160px;
+	background-color: #eaf6f7;
+	
+}
+.IMG1{
+	height: 120px;
+	width: 190px;
+	padding-top: 20px;
+	padding-right: 20px;
+}
+.ZW1{
+	width: 770px;
+}
+.IMG1,.ZW1{display: inline-block;}
+.A{
+	float: left;
+	padding-right: 140px;
+	margin-top: 10px;
+}
+.two{
+	margin-top: 10px;
+	border-top: solid 3px gray;
+	height: 160px;
+}
+.IMG2{
+	height: 120px;
+	width: 190px;
+	padding-right: 20px;
+}
+.ZW2
+{
+	width: 770px;
+}
+.IMG2,.ZW2{display: inline-block;}
+.y{
+	line-height: 25px;
+	overflow: hidden;
+}
